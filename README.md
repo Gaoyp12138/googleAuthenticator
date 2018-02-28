@@ -1,5 +1,7 @@
 # googleAuthenticator
 
+## 只是demo
+
 ## 使用方法
 + 配置好数据库
 + 启动程序

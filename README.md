@@ -10,6 +10,6 @@
 + 使用认证器认证，日志中查看结果
 
 ## 工具类参考博客
-<a href="http://blog.csdn.net/mr_smile2014/article/details/77160873">http://blog.csdn.net/mr_smile2014/article/details/77160873</a>
-<br/>
-感谢博主的好文
+> <a href="http://blog.csdn.net/mr_smile2014/article/details/77160873">http://blog.csdn.net/mr_smile2014/article/details/77160873</a>
+> <br/>
+> 感谢博主的好文
